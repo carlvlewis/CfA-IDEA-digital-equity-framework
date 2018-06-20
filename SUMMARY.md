@@ -1,11 +1,6 @@
-# Table of Contents
+# Summary
 
-This guide seeks to propose a shared framework for working to counteract systemic digital inequity in both the process and the product of civic technology communities of practice and place.
-
-  
-
-
+* [Introduction](README.md)
 * [First Chapter](chapter1.md)
-
-
+* [Designing for Accessibility](designing-for-accessibility.md)
 
