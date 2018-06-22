@@ -8,7 +8,7 @@
 
 #### A PROJECT OF [CODE FOR AMERICA](https://codeforamerica.org)'S BRIGADE NETWORK
 
-#### AUTHORED BY: [Carl V. Lewis](http://carlvlew.is), [Ramy Kim](http://twitter.com/ramykim)
+#### AUTHORED BY: [Carl V. Lewis](http://carlvlew.is) \(OpenSavannah\), [Ramy Kim](http://twitter.com/ramykim) \(OpenOakland\)
 
 #### SUBMITTED FOR APPROVAL ON: \_\_\_\_\_\_\_
 
