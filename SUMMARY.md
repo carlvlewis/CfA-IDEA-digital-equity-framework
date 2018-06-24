@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * [Introduction](README.md)
   * [Context/Audience](who-this-guide-is-for.md)
@@ -7,4 +7,6 @@
 * [Getting Started with IDEA](chapter1.md)
 * [Designing for Accessibility](designing-for-accessibility.md)
 * [Fostering Digital Equity](fostering-digital-equity.md)
+
+
 
